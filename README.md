@@ -10,4 +10,4 @@
 
 ### Linguagens/Tecnologias💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,c,py,nodejs,mongodb,mysql,bootstrap,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,c,java,py,nodejs,mongodb,mysql,bootstrap,vscode)](https://skillicons.dev)
