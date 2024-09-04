@@ -8,4 +8,4 @@
 
 ### Linguagens/Tecnologias💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,flask,nodejs,mongodb,mysql,vite,bootstrap,vscode,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,py,flask,nodejs,mongodb,mysql,vite,bootstrap,vscode,blender)](https://skillicons.dev)
