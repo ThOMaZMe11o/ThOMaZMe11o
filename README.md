@@ -7,6 +7,8 @@
 
 ### Linguagens/Tecnologias💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vite,bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,flask,mongodb,mysql,vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,vite,bootstrap)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=py,flask,selenium,mongodb,mysql,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=blender,figma,photoshop)](https://skillicons.dev)
