@@ -11,4 +11,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,mongodb,mysql,docker,vscode)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=blender,figma,photoshop)](https://skillicons.dev)
+
