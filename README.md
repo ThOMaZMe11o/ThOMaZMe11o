@@ -9,6 +9,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,vite)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,mongodb,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,mongodb,mysql,docker,git,github,aws)](https://skillicons.dev)
 
 
