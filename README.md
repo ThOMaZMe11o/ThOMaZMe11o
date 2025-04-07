@@ -7,8 +7,6 @@
 
 ### Linguagens/Tecnologias💻
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,vite,tailwind,bootstrap)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=py,flask,mongodb,mysql,docker,postman,git,github,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,py,flask,mysql,docker,git,github)](https://skillicons.dev)
 
 
