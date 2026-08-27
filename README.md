@@ -12,7 +12,6 @@ Nos projetos mais recentes venho explorando IA aplicada a negócio, incluindo LL
 Aberto a conexões, networking e oportunidades envolvendo desenvolvimento Full-Stack, automação, backend, frontend e IA aplicada.
 
 Contato: thomazmello1912@gmail.com
-
 Portifólio: www.thomellos.com
 
 ---
