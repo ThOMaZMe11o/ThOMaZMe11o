@@ -16,17 +16,7 @@ Portifólio: www.thomellos.com
 
 ---
 
-## 🚀 Sobre mim
-
-- 🌱 Atualmente estudando **Design** e **Inteligência Artificial**
-- 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec
-- 🔭 Aprendendo sobre **programação full stack**
-- 🧠 Foco principal em **front-end** e **ux/ui design**
-- 💻 Interesse em desenvolvimento de sistemas, APIs e soluções escaláveis
-
----
-
-## 🛠️ Tecnologias que estou estudando
+## 🛠️ Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,vite,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,express,py,flask,mongodb,mysql,docker,aws,git,github)](https://skillicons.dev)
 
